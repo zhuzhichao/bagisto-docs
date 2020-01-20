@@ -272,6 +272,12 @@ After doing this we need to add an event listener so that admin layouts include 
 
 **For Event Listener –**
 
+Initially, add facade 'Event' into your HelloWorldServiceProvider.php file, else it will throw error.
+
+```php
+use Illuminate\Support\Facades\Event;
+```
+
 ```php
 public function boot()
 {
