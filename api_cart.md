@@ -3,7 +3,7 @@ title: Cart Requests | Bagisto Web APIs Documentation
 layout: default
 ---
 
-# How To Create Requests For Cart
+# 如何为购物车创建请求
 
 ![](assets/images/icons/Icon-Pencil-Large.svg){:.pencil-icon}
 [edit on github](https://github.com/bagisto/bagisto-docs/blob/master/api_cart.md){:class="edit-github" target="\_blank"}
